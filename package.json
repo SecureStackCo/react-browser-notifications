@@ -31,13 +31,13 @@
     "babel-loader": "^7.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.5.1"
+    "babel-preset-env": "^1.5.1",
+    "webpack": "^2.6.1"
   },
   "dependencies": {
     "push.js": "^1.0.5",
     "react": "^16.2.0",
-    "shortid": "^2.2.8",
-    "webpack": "^2.6.1"
+    "shortid": "^2.2.8"
   },
   "babel": {
     "presets": [
